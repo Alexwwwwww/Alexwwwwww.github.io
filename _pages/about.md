@@ -12,3 +12,7 @@ I am a final year undergraduate at HKUST, with a double major in Computer Scienc
 Research
 ======
 My research interest lies in the intersection of NLP and HCI. I aim to empower human-centered NLP by mitigating LLM bias, leveraging scalable alignment. I also want to understand the socio-cultural dynamics of LLM by incorporating methods and theories from HCI.
+
+Teaching
+======
+I was the Undergraduate Teaching Assistant of COMP3111 Software Engineering in 2024 Spring.

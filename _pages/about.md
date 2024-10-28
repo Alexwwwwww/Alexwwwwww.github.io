@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Hi there! 🤗"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-:hugging_face: I am a final year undergraduate at HKUST, with a double major in Computer Science and Data Science and Technology. I am currently an intern at UIUC [Blender Lab](https://blender.cs.illinois.edu/) supervised by Dr [May Fung](https://yrf1.github.io/) and Prof [Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I was also fortunate to be supervised by Prof [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), Prof [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) and Prof [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
+I am a final year undergraduate at HKUST, with a double major in Computer Science and Data Science and Technology. I am currently an intern at UIUC [Blender Lab](https://blender.cs.illinois.edu/) supervised by Dr [May Fung](https://yrf1.github.io/) and Prof [Heng Ji](https://blender.cs.illinois.edu/hengji.html). Previously, I was also fortunate to be supervised by Prof [Yangqiu Song](https://www.cse.ust.hk/~yqsong/), Prof [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) and Prof [Hao Chen](https://cse.hkust.edu.hk/~jhc/).
 
 Research
 ======
